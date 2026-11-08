@@ -1,3 +1,4 @@
+# re-register schedule 2026-11-08
 name: yadaavar-dispatch
 on:
   schedule:
