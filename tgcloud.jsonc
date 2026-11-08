@@ -1,0 +1,6 @@
+{
+  // reminder-bot — Persian Telegram omni-reminder bot (tgcloud serverless).
+  // No Mini App in this phase.
+  "static": false,
+  "$schema": "./node_modules/@tgcloud/cli/schema/tgcloud.json"
+}
